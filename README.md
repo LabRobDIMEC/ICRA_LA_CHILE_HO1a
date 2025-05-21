@@ -11,4 +11,4 @@ Part of this workshop addresses the main differences between two kind of legs, t
 
 <img src= Comparation.png width=800> 
 
-All the files to control and print the legs are available in the [SA Leg](https://github.com/LabRobDIMEC/ICRA_LA_CHILE_HO1a/tree/main/SA%20Leg) and the [FA Leg]() folder
+All the files to control and print the legs are available in the [SA Leg](https://github.com/LabRobDIMEC/ICRA_LA_CHILE_HO1a/tree/main/SA%20Leg) and the [FA Leg](https://github.com/LabRobDIMEC/ICRA_LA_CHILE_HO1a/tree/main/FA%20Leg/Step%20Files) folder
