@@ -1,3 +1,5 @@
+//Esta pata utiliza 2 servos mg995 conectados a un Arduino Uno
+// La posición de cada servo se controla con potenciometros
 #include <Servo.h>
 
 Servo servo1; // Declarar servo 1
