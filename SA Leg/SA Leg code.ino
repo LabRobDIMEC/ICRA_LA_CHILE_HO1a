@@ -1,5 +1,5 @@
 //This approach uses a Nema17 Stepper motor with an EasyDriver A3867, controlled with Arduino Uno
-
+//The speed and direction are of the motor controlled with a potentiometer
 #define STEP_PIN 3
 #define DIR_PIN 2
 #define POT_PIN A0
